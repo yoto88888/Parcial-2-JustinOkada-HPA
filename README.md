@@ -1,4 +1,4 @@
-# Laboratorio: Patrón MVP y Seguridad en C# (.NET)
+# Parcial#2 MVP - Justin Okada
 
 Este proyecto es una aplicación de Windows Forms desarrollada en C# que implementa la arquitectura **MVP (Modelo-Vista-Presentador)** y el diseño en múltiples capas. El objetivo principal es demostrar la separación de responsabilidades, el acceso a datos mediante MySQL y la aplicación de buenas prácticas de seguridad (Hashing y Salting de contraseñas) a través de contratos (Interfaces).
 
